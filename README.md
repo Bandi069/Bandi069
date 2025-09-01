@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I specialize in building scalable and efficient web applications with a focus on clean code and great user experiences.
 
-
+---
 ### 🛠️ Technologies & Tools
 
 | Frontend | Backend | Databases  | DevOps & Tools          | Others            |
