@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in building scalable and efficient we
 ### 🛠️ Technologies & Tools
 
 | Frontend | Backend | Databases  | DevOps & Tools          | Others            |
-|----------|---------|-----------_|-------------------------|-------------------|
+|----------|---------|------------|-------------------------|-------------------|
 | Angular  |  .NET,  | SQL Server | Docker, Kubernetes, AWS | Git, CI/CD, REST APIs ,JavaScript, TypeScript , ASP.NET Core, C#, Jenkins |
 
 ---
