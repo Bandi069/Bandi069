@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Venu Bandi 👋
 
-<!--
-**Bandi069/Bandi069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I specialize in building scalable and efficient web applications with a focus on clean code and great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠️ Technologies & Tools
+
+| Frontend | Backend | Databases  | DevOps & Tools          | Others            |
+|----------|---------|-----------_|-------------------------|-------------------|
+| Angular  |  .NET,  | SQL Server | Docker, Kubernetes, AWS | Git, CI/CD, REST APIs ,JavaScript, TypeScript , ASP.NET Core, C#, Jenkins |
+
+---
+
+### 🔥 What I Do
+
+- Develop responsive and dynamic single-page applications (SPA) with Angular.
+- Design and build RESTful APIs and microservices using .NET.
+- Implement database schemas, optimized queries, and ORM solutions.
+- Automate deployment pipelines using Docker, Kubernetes, and CI/CD tools.
+- Collaborate in Agile teams and participate in code reviews & design discussions.
+- Continuously learn new technologies and contribute to open-source projects.
+
+---
